@@ -11,8 +11,8 @@
 5. Постоянно обновляется;
 6. Простой и удобный интерфейс;
 ---
-
-[Download](https://drive.google.com/file/d/1plmr1Vktk5CQ7X3_7riK_04AduyUacTP/view?usp=sharing "Ссылка на скачивание")
+## Download
+Скачать можно по [ссылке](https://drive.google.com/file/d/1plmr1Vktk5CQ7X3_7riK_04AduyUacTP/view?usp=sharing "Ссылка на скачивание")
 
 ## Functions top menu
 - File
