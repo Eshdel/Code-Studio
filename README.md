@@ -12,7 +12,7 @@
 6. Простой и удобный интерфейс;
 ---
 ## Download
-[https://drive.google.com/file/d/1plmr1Vktk5CQ7X3_7riK_04AduyUacTP/view?usp=sharing]: https://drive.google.com/file/d/1plmr1Vktk5CQ7X3_7riK_04AduyUacTP/view?usp=sharing
+[Обычная ссылка с title](https://www.google.com "Сайт Google")
 ---
 ## Functions top menu
 - File
